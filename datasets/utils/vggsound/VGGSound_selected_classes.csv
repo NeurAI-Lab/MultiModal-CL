@@ -1,0 +1,313 @@
+category,label,test,train,Selected,More than 500
+animals,"bird chirping, tweeting",50,1000,1,1
+animals,chicken crowing,50,1000,1,1
+animals,"pigeon, dove cooing",50,1000,1,1
+animals,frog croaking,50,968,1,1
+animals,crow cawing,50,943,1,1
+animals,lions roaring,50,914,1,1
+animals,pheasant crowing,50,887,1,1
+animals,dog howling,50,879,1,1
+animals,mynah bird singing,50,834,1,1
+animals,horse clip-clop,50,832,1,1
+animals,cat purring,50,811,1,1
+animals,dog growling,50,776,1,1
+animals,gibbon howling,49,743,1,1
+animals,goose honking,50,738,1,1
+animals,dog barking,50,717,1,1
+animals,owl hooting,50,703,1,1
+animals,woodpecker pecking tree,50,695,1,1
+animals,cattle mooing,50,685,1,1
+animals,canary calling,50,667,1,1
+animals,cricket chirping,50,652,1,1
+animals,wood thrush calling,50,631,0,1
+animals,francolin calling,50,601,0,1
+animals,turkey gobbling,50,596,0,1
+animals,"cattle, bovinae cowbell",50,594,0,1
+animals,dinosaurs bellowing,50,583,0,1
+animals,dog bow-wow,50,578,0,1
+animals,chicken clucking,50,575,0,1
+animals,duck quacking,50,552,0,1
+animals,lions growling,50,549,0,1
+animals,parrot talking,50,543,0,1
+animals,cat meowing,50,538,0,1
+animals,horse neighing,50,537,0,1
+animals,elk bugling,50,507,0,1
+animals,"bee, wasp, etc. buzzing",50,501,0,1
+animals,sheep bleating,50,465,0,0
+animals,coyote howling,50,440,0,0
+animals,chimpanzee pant-hooting,50,423,0,0
+animals,dog whimpering,50,411,0,0
+animals,black capped chickadee calling,50,396,0,0
+animals,pig oinking,50,394,0,0
+animals,"donkey, ass braying",50,388,0,0
+animals,mosquito buzzing,50,388,0,0
+animals,mouse pattering,50,380,0,0
+animals,magpie calling,50,379,0,0
+animals,barn swallow calling,50,370,0,0
+animals,dog baying,50,362,0,0
+animals,cheetah chirrup,50,353,0,0
+animals,cat growling,50,337,0,0
+animals,otter growling,50,313,0,0
+animals,"alligators, crocodiles hissing",50,311,0,0
+animals,fox barking,50,311,0,0
+animals,bird squawking,50,298,0,0
+animals,bull bellowing,50,270,0,0
+animals,cat hissing,50,270,0,0
+animals,penguins braying,50,268,0,0
+animals,elephant trumpeting,50,260,0,0
+animals,warbler chirping,50,214,0,0
+animals,chipmunk chirping,50,211,0,0
+animals,bird wings flapping,50,208,0,0
+animals,eagle screaming,50,202,0,0
+animals,goat bleating,50,196,0,0
+animals,mouse squeaking,50,190,0,0
+animals,ferret dooking,50,189,0,0
+animals,cat caterwauling,50,187,0,0
+animals,cuckoo bird calling,50,168,0,0
+animals,chinchilla barking,50,163,0,0
+animals,snake hissing,50,235,0,0
+animals,snake rattling,50,149,0,0
+animals,sea lion barking,50,161,0,0
+animals,baltimore oriole calling,50,150,0,0
+animals,"fly, housefly buzzing",50,150,0,0
+animals,whale calling,50,150,0,0
+animals,cow lowing,50,149,0,0
+animals,zebra braying,50,149,0,0
+home,toilet flushing,50,1000,0,1
+home,vacuum cleaner cleaning floors,50,959,0,1
+home,"electric shaver, electric razor shaving",50,858,0,1
+home,sliding door,50,537,0,1
+home,eating with cutlery,50,478,0,0
+home,opening or closing drawers,50,408,0,0
+home,hair dryer drying,50,293,0,0
+home,cupboard opening or closing,50,280,0,0
+home,bathroom ventilation fan running,50,150,0,0
+home,chopping food,50,150,0,0
+home,door slamming,50,150,0,0
+music,orchestra,50,1000,1,1
+music,playing accordion,50,1000,1,1
+music,playing acoustic guitar,50,1000,1,1
+music,playing banjo,50,1000,1,1
+music,playing bass guitar,50,1000,1,1
+music,playing bassoon,50,1000,1,1
+music,playing cello,50,1000,1,1
+music,playing cymbal,50,1000,1,1
+music,playing didgeridoo,50,1000,1,1
+music,playing drum kit,50,1000,1,1
+music,playing electric guitar,50,1000,1,1
+music,playing flute,50,1000,1,1
+music,playing harp,50,1000,1,1
+music,"playing marimba, xylophone",50,1000,1,1
+music,playing piano,50,1000,1,1
+music,playing saxophone,50,1000,1,1
+music,playing trombone,50,1000,0,1
+music,"playing violin, fiddle",50,1000,1,1
+music,singing bowl,50,1000,0,1
+music,playing clarinet,50,999,1,1
+music,playing hammond organ,50,999,0,1
+music,playing tabla,50,998,1,1
+music,playing glockenspiel,50,996,1,1
+music,playing harpsichord,50,972,0,1
+music,playing theremin,50,957,0,1
+music,playing snare drum,50,937,0,1
+music,playing erhu,50,921,0,1
+music,playing bagpipes,50,910,0,1
+music,"playing steel guitar, slide guitar",50,879,0,1
+music,playing bongo,50,870,0,1
+music,playing synthesizer,50,859,0,1
+music,playing ukulele,50,857,0,1
+music,playing cornet,50,843,0,1
+music,playing vibraphone,50,835,0,1
+music,playing french horn,50,815,0,1
+music,playing bass drum,50,813,0,1
+music,playing sitar,50,810,0,1
+music,playing electronic organ,50,789,0,1
+music,playing trumpet,50,785,0,1
+music,playing harmonica,50,774,0,1
+music,playing mandolin,50,774,0,1
+music,playing tambourine,50,761,0,1
+music,playing double bass,50,760,0,1
+music,church bell ringing,50,757,0,1
+music,tapping guitar,50,730,0,1
+music,playing timpani,50,579,0,1
+music,playing timbales,50,537,0,1
+music,playing gong,50,507,0,1
+music,playing oboe,49,497,0,0
+music,playing zither,50,488,0,0
+music,playing steelpan,50,454,0,0
+music,playing guiro,50,427,0,0
+music,playing congas,50,415,0,0
+music,playing tympani,50,413,0,0
+music,playing bugle,50,392,0,0
+music,playing djembe,50,380,0,0
+music,wind chime,50,339,0,0
+music,disc scratching,50,150,0,0
+music,metronome,50,150,0,0
+music,playing castanets,49,150,0,0
+music,playing shofar,50,150,0,0
+music,playing tuning fork,50,150,0,0
+music,playing washboard,50,150,0,0
+nature,ocean burbling,50,933,0,1
+nature,wind noise,50,872,0,1
+nature,volcano explosion,50,792,0,1
+nature,hail,50,668,0,1
+nature,stream burbling,50,640,0,1
+nature,wind rustling leaves,50,513,0,1
+nature,waterfall burbling,50,464,0,0
+nature,fire crackling,50,442,0,0
+nature,raining,50,423,0,0
+nature,tornado roaring,50,306,0,0
+nature,thunder,50,275,0,0
+others,fireworks banging,50,1000,0,1
+others,slot machine,50,950,0,1
+others,machine gun shooting,50,936,0,1
+others,civil defense siren,50,929,0,1
+others,missile launch,50,924,0,1
+others,cap gun shooting,50,854,0,1
+others,printer printing,50,831,0,1
+others,lathe spinning,50,809,0,1
+others,lighting firecrackers,50,804,0,1
+others,typing on typewriter,50,695,0,1
+others,mouse clicking,50,610,0,1
+others,using sewing machines,50,576,0,1
+others,splashing water,50,568,0,1
+others,typing on computer keyboard,50,511,0,1
+others,ripping paper,50,510,0,1
+others,squishing water,50,385,0,0
+others,firing muskets,50,367,0,0
+others,ice cracking,50,315,0,0
+others,firing cannon,50,286,0,0
+others,alarm clock ringing,50,281,0,0
+others,running electric fan,50,268,0,0
+others,spraying water,50,228,0,0
+others,sloshing water,50,226,0,0
+others,plastic bottle crushing,50,214,0,0
+others,chopping wood,50,204,0,0
+others,popping popcorn,50,203,0,0
+others,air conditioning noise,50,195,0,0
+others,strike lighter,50,179,0,0
+others,smoke detector beeping,50,171,0,0
+others,foghorn,50,167,0,0
+others,cell phone buzzing,50,150,0,0
+others,telephone bell ringing,50,150,0,0
+others,pumping water,50,149,0,0
+people,"child speech, kid speaking",50,1000,1,1
+people,female singing,50,1000,1,1
+people,"female speech, woman speaking",50,1000,1,1
+people,male singing,50,1000,1,1
+people,"male speech, man speaking",50,1000,1,1
+people,people booing,50,1000,1,1
+people,people crowd,50,1000,1,1
+people,people burping,50,999,1,1
+people,beat boxing,50,948,1,1
+people,child singing,50,944,1,1
+people,yodelling,50,911,1,1
+people,people clapping,50,853,1,1
+people,people sniggering,50,841,1,1
+people,people whistling,50,833,1,1
+people,baby laughter,50,831,1,1
+people,people marching,50,767,1,1
+people,singing choir,50,712,1,1
+people,"heart sounds, heartbeat",50,706,1,1
+people,people whispering,50,697,1,1
+people,people screaming,50,681,0,1
+people,people cheering,50,654,1,1
+people,people sneezing,50,638,0,1
+people,people shuffling,50,625,0,1
+people,baby crying,50,617,0,1
+people,rapping,50,588,0,1
+people,baby babbling,50,548,0,1
+people,people babbling,50,537,0,1
+people,people slurping,50,512,0,1
+people,people eating noodle,50,510,0,1
+people,people farting,50,504,0,1
+people,people belly laughing,50,467,0,0
+people,people sobbing,50,431,0,0
+people,people coughing,50,403,0,0
+people,people eating crisps,50,392,0,0
+people,people running,50,372,0,0
+people,underwater bubbling,50,370,0,0
+people,people hiccup,50,344,0,0
+people,people humming,50,341,0,0
+people,people eating apple,50,310,0,0
+people,people battle cry,50,241,0,0
+people,people giggling,50,223,0,0
+people,lip smacking,50,215,0,0
+people,footsteps on snow,50,201,0,0
+people,people nose blowing,50,178,0,0
+people,people eating,50,176,0,0
+people,people gargling,50,171,0,0
+people,people slapping,50,161,0,0
+people,children shouting,50,151,0,0
+people,people finger snapping,50,150,0,0
+sports,basketball bounce,50,1000,1,1
+sports,"motorboat, speedboat acceleration",50,1000,1,1
+sports,"rowboat, canoe, kayak rowing",50,1000,1,1
+sports,tap dancing,50,1000,1,1
+sports,playing squash,50,999,1,1
+sports,playing table tennis,50,999,1,1
+sports,playing badminton,50,950,1,1
+sports,playing volleyball,50,941,1,1
+sports,skiing,50,930,1,1
+sports,bowling impact,50,919,1,1
+sports,rope skipping,50,917,1,1
+sports,scuba diving,50,913,1,1
+sports,skateboarding,50,864,1,1
+sports,roller coaster running,50,628,1,1
+sports,sailing,50,542,1,1
+sports,swimming,50,516,1,1
+sports,playing darts,50,505,1,1
+sports,bouncing on trampoline,50,476,1,0
+sports,playing hockey,50,352,1,0
+sports,striking pool,50,351,1,0
+sports,playing tennis,50,340,0,0
+sports,striking bowling,50,276,0,0
+sports,golf driving,50,253,0,0
+sports,playing lacrosse,50,232,0,0
+sports,sea waves,49,201,0,0
+sports,shot football,50,176,0,0
+tools,police radio chatter,50,908,0,1
+tools,arc welding,50,884,0,1
+tools,planing timber,50,766,0,1
+tools,sharpen knife,50,726,0,1
+tools,hammering nails,50,563,0,1
+tools,electric grinder grinding,50,375,0,0
+tools,extending ladders,50,241,0,0
+tools,writing on blackboard with chalk,50,230,0,0
+tools,cutting hair with electric trimmers,50,218,0,0
+tools,forging swords,50,214,0,0
+tools,hedge trimmer running,50,201,0,0
+tools,blowtorch igniting,50,200,0,0
+tools,eletric blender running,50,164,0,0
+vehicle,ambulance siren,50,1000,1,1
+vehicle,chainsawing trees,50,1000,1,1
+vehicle,driving buses,50,1000,1,1
+vehicle,driving motorcycle,50,1000,1,1
+vehicle,"engine accelerating, revving, vroom",50,1000,1,1
+vehicle,helicopter,50,1000,1,1
+vehicle,police car (siren),50,1000,1,1
+vehicle,"race car, auto racing",50,1000,1,1
+vehicle,"railroad car, train wagon",50,1000,1,1
+vehicle,"vehicle horn, car horn, honking",50,1000,1,1
+vehicle,"subway, metro, underground",50,950,1,1
+vehicle,car engine knocking,50,940,1,1
+vehicle,tractor digging,50,920,1,1
+vehicle,airplane flyby,50,914,1,1
+vehicle,fire truck siren,50,908,1,1
+vehicle,skidding,50,856,1,1
+vehicle,lawn mowing,50,808,1,1
+vehicle,train horning,50,721,1,1
+vehicle,"ice cream truck, ice cream van",50,626,1,1
+vehicle,train whistling,50,558,1,1
+vehicle,driving snowmobile,50,553,0,1
+vehicle,car passing by,50,545,0,1
+vehicle,airplane,50,456,0,0
+vehicle,car engine starting,50,441,0,0
+vehicle,reversing beeps,50,437,0,0
+vehicle,opening or closing car doors,50,409,0,0
+vehicle,car engine idling,50,320,0,0
+vehicle,train wheels squealing,50,283,0,0
+vehicle,opening or closing car electric windows,50,155,0,0
+vehicle,air horn,50,147,0,0
+,,,,,
+,,,183971,,
